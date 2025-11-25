@@ -1860,6 +1860,6 @@ int prepareForShutdown(int flags) {
 
 ---
 
-**文件位置**：`D:\projects\redis\analysis\server.c核心注释.md`
-
-**下一步**：如果需要其他文件的注释（如 `networking.c`, `db.c`, `t_string.c`），随时告诉我！😊
+*文档生成时间：2025-11-25*
+*基于 Redis 源码版本 8.4.0*
+*作者：Claude Code*

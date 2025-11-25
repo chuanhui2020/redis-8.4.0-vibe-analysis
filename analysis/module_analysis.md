@@ -183,5 +183,5 @@ make distclean
 Redis 8.0+ 采用 RSALv2/SSPLv1/AGPLv3 三重许可证
 
 
-文档生成时间: 2025-11-24
-Redis 版本: 8.0+
+文档生成时间: 2025-11-25
+Redis 版本: 8.4.0

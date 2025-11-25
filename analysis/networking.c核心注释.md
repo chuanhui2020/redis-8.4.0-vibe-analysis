@@ -1383,6 +1383,6 @@ client-output-buffer-limit pubsub 32mb 8mb 60     // PubSub：硬限32MB，软�
 
 ---
 
-*文档生成时间：2025-11-24*
-*基于 Redis 源码版本：unstable (commit b0694f1)*
+*文档生成时间：2025-11-25*
+*基于 Redis 源码版本 8.4.0*
 *作者：Claude Code*
